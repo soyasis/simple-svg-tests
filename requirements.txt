@@ -1,0 +1,10 @@
+ipykernel==6.9.1
+ipynb==0.5.1
+ipython==8.3.0
+jupyter-client==7.2.2
+jupyter-core==4.10.0
+numpy==1.23.5
+pandas==1.5.2
+pip==22.2.2
+scipy==1.9.3
+svgpathtools==1.5.1
